@@ -1,127 +1,94 @@
+<!-- Hetal Roopchandani's GitHub Profile README -->
 
-
-<!-- Name and nerd face emoji side by side -->
 <h1 align="center">
-  Hi, I'm Macha Varshitha
-  <img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/main/public/Assets/Pixel%20Cat.gif" height="75" />
+  Hey there! I'm <span style="color:#FF6F61;">Hetal Roopchandani</span> 👩‍💻
+  <img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/main/public/Assets/Pixel%20Cat.gif" height="75"/>
 </h1>
 
-
-
-<h3 align="center">
-  Aspiring Java Full Stack Developer |
-  Learning, Building, and Growing!!
-</h3>
-
-<!--
-<img align="right" src="" width="250" alt="Coding Cat"/>
--->
-<br>
-
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Varshitha713&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views"/>
-</p>
-
-## 👩‍💻 About Me
-
-- 🎓 **Final year student in CSE (AI & ML)**
-- 💡 I enjoy building projects that solve everyday problems
-- 🔧 I like working on both frontend and backend
-- 🌱 Currently exploring Firebase and working on [BookMark Manager App](https://github.com/Varshitha713/BookMark-Manager)
-- 📫 Reach me at: [machavarshithareddy@example.com](mailto:machavarshithareddy@example.com)
-- 📍 **Location:** Hyderabad-India
-
-<br>
-
-<h3>🛠 Tech Stack and Tools</h3>
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,html,css,javascript,react,bootstrap,firebase,git,github,mysql,vscode,figma,notion,&theme=dark&perline=5" />
+  <a href="https://readme-typing-svg.herokuapp.com/demo/">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=700&lines=🔥+Enthusiastic+CS+Undergrad+from+MVSR+College;🌐+AI%2FML+Explorer+%7C+Full+Stack+Dreamer;💡+Founder+of+NOVA+%7C+Driven+by+Curiosity;💬+Let's+Code%2C+Connect+and+Create!"/>
   </a>
 </p>
 
-<!-- **Languages**: Java, Python, C  
-- **Web**: HTML, CSS, JS, Bootstrap  
-- **Databases**: Firebase Firestore, SQL (basic)  
-- **Tools**: Git, GitHub, VS Code, Jupyter, Firebase Console  
-- **Concepts**: DSA, OOPs, DBMS, OS  
--->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hetz11&label=Profile+Views&color=blueviolet&style=flat-square"/>
+</p>
 
-<br>
+---
 
-<details>
-<summary>✨ Want to Contribute? Open This!</summary>
+## 🙋‍♀️ About Me
 
-<br>
+- 👩‍🎓 B.Tech CSE Student @ MVSR Engineering College (2023–2027)  
+- ⚡ Enthusiastic learner, deeply passionate about AI, Data Science & Full Stack Dev  
+- 🚀 Founder @ NOVA — MVSR’s leading tech innovation body 💡  
+- 🧠 Completed AI & ML course from Launched Global  
+- 💬 Always up for hackathons, tech fests & collaborative dev work!  
+- 🌏 Based in Hyderabad, India 🇮🇳  
+- 📫 Reach me: [hetalroopchandani@gmail.com](mailto:hetalroopchandani@gmail.com)  
 
-## 🚀 Placement Resources
+---
 
-A simple open-source website 📚 that shares **high-quality placement prep resources** — built *by students, for students*.  
-Perfect for beginners looking for **Good First Issues**.
+## ⚙️ Tech Stack & Tools
 
-🌐 **[Live Preview](https://varshitha713.github.io/first-contrib-placement/)**  
-📂 **[View Repo & Start Contributing!](https://github.com/Varshitha713/first-contrib-placement)**
-<!--<br>
-✨ **Contributors**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,c,html,css,javascript,react,bootstrap,mysql,firebase,git,github,figma,vscode,notion&theme=dark&perline=8" />
+</p>
 
-<br>
-<img src="https://api.vaunt.dev/v1/github/entities/Varshitha713/repositories/first-contrib-placement/contributors?format=svg&limit=54" width="500" height="250" />
+---
 
-  <br>-->
-  <br>
-  
-**What You Can Add:**  
-- 📌 Useful resource cards (DSA, Web Dev, Aptitude, etc.)  
-- 🖌️ Design improvements or new categories  
-- 🐛 Bug fixes or suggestions
+## 🌟 Featured Roles & Work
 
-**How to Contribute:**  
-1️⃣ Fork → Clone → Add your card → Commit → Push → Open a Pull Request  
-2️⃣ *Check `index.html` for card structure*  
-3️⃣ Raise issues if you spot bugs or ideas!
+- 👑 Divisional President @ Street Cause MVSR  
+- 🤝 Vice Chair (HR) @ Hyderabad Youth Assembly  
+- 💻 Design & Media Coordinator @ Data & Development Den  
+- 📊 Organizing Committee @ IEEE, CSI, GDSC MVSR  
+- 🚀 Head of Design & Innovation @ NOVA Club  
 
-🙌 **Open for new ideas!**
+---
 
-</details>
+## 🔥 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hetz11&show_icons=true&theme=tokyonight&count_private=true" height="200"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=hetz11&theme=tokyonight" height="200"/>
+</p>
 
-## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hetz11&layout=compact&theme=tokyonight" height="200"/>
+</p>
 
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Varshitha713&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=synthwave&cache_seconds=1800" height="350"/>
-    </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Varshitha713&theme=transparent" height="350"/>
-    </td>
-  </tr>
-</table>
+---
 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Varshitha713&utm_content=farm">
-      <img src="https://render.gitanimals.org/farms/Varshitha713" width="1200" height="300"/></a>  
-<br>
+## 🌱 Currently Working On
 
-## 📫 Connect With Me
+- 📌 NOVA Tech Events & AI Projects
+- 📱 Full-stack Projects using Firebase + React
+- 🧠 Learning DSA and preparing for placements
 
+---
 
-<div align="center">
-<a href="https://discord.com/users/1179807221329182780">
-  <img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/main/public/Assets/discord.gif" width="100"/>
-</a>
+## 🤝 Connect With Me
 
-<a href="https://www.linkedin.com/in/varshitha-macha/">
-  <img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/main/public/Assets/linkedin.gif" width="100"/>
-</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/hetal-roopchandani">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge">
+  </a>
+  <a href="https://instagram.com/_its._.hetal_">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&style=for-the-badge">
+  </a>
+  <a href="https://www.snapchat.com/add/hetz11">
+    <img src="https://img.shields.io/badge/Snapchat-FFFC00?logo=snapchat&logoColor=black&style=for-the-badge">
+  </a>
+  <a href="mailto:hetalroopchandani@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&style=for-the-badge">
+  </a>
+</p>
 
-<a href="mailto:machavarshithareddy@gmail.com">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZHljc2lidTJxMzVscGdiNGxkMWF3d2Ryd3FhN3o3bDMwNHRpeWhscCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/iPRtIf0OlGlSnNfV7W/giphy.gif" width="90"/>
-</a>
-</div>
-<br>
+---
 
-<h3 align="center" >Thanks for stopping by!👋 </h3>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+<h3 align="center">✨ Thanks for visiting! Let’s build the future together. 🚀</h3>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+</p>
